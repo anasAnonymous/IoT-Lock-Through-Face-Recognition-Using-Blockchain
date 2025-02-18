@@ -1,4 +1,4 @@
-# Image Transfer via Socket in Python  
+# Face Recognition Program Using Blockchain and IoT
 
 This project allows a client to capture an image using a webcam and send it to a server over a TCP socket connection.  
 
