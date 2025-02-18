@@ -20,15 +20,14 @@ Before running the programs, ensure these directories exist:
 Run the following command to start the server:
 ```bash
 python server.py
-The server will wait for an image from the client.
 ```
+The server will wait for an image from the client.
 
 ### Run the Client
 Once the server is running, start the client:
 ```bash
 python client.py
 ```
-
 The client will capture an image, save it, and send it to the server.
 
 ## 🎯 Features
