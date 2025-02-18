@@ -12,7 +12,7 @@ Make sure you have Python installed, then install the required libraries.
 
 ## 📂 Folder Structure
 Before running the programs, ensure these directories exist:
-- A folder for received images)
+- A folder for received images
 - A folder for storing captured images
 
 ## 🛠 How to Run
