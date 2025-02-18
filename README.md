@@ -36,5 +36,5 @@ The client will capture an image, save it, and send it to the server.
 - Saves received images to a predefined folder.
 
 ## 🔧 Troubleshooting
--- If the image is not received, check if the directories exist.
--- Ensure that both scripts are running on the same IP (127.0.0.1) and port (12345).
+- If the image is not received, check if the directories exist.
+- Ensure that both scripts are running on the same IP (127.0.0.1) and port (12345).
